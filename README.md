@@ -2,4 +2,4 @@
 ## CV
 Oh no..... no CV
 ## links
-[suse.com](suse.com)
+[SuSE](suse.com)
