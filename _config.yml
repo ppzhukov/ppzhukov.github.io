@@ -1,3 +1,5 @@
-theme: jekyll-theme-minimal
-title: Pavel's homepage
-description: My homepage
+title: Павел Жуков
+description: Информация и резюме Павла Жукова.
+show_downloads: false
+google_analytics:
+theme: jekyll-theme-architect
