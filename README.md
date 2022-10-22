@@ -10,8 +10,11 @@
 ### Представительство компаний SUSE и Novell (ООО "НОВЕЛЛ СНГ" ООО “СУСЕ СНГ") 
 Июль 2006 - текущий момент 
 - Технический директор. Январь 2009 - текущий момент 
+Ключевые Задачи:
     - Управление группой инженеров (до 10 человек) 
     - Участие в качестве архитектора для ключевых проектов
+    - Проведение вебинаров, семинаров, участие в качестве эксперта в профильных выставках
+
 - Системный инженер. Июль 2006 г. - декабрь 2008   
 Эксперт отдела технической поддержки: 
     - Поддержка ключевых заказчиков 
@@ -41,24 +44,11 @@ Novell Open Workgroup Suite (Novell Open Enterprise Server, Novell Zenworks, Nov
 [Другие](certificates.md)
 
 ## Портфолио (Публичные проекты)
-* [Проект 1](https://github.com/dff1980/SAPDI-2022)
+* [Проект](https://github.com/ppzhukov/airgap-10.2022)
 
-  Установка SUSE Rancher (Kubernetes) для запуска SAP Data Intelligence в инфраструктуре с воздушным зазором.
-  Kubernetes - RKE2
-  PV - Longhorn
-  Управление k8s - SUSE Rancher
-  Linux - SUSE Linux Enterprise Server
-  Управление Linux - Salt
-  S3 - MinIO
-* [Проект 2](https://github.com/ppzhukov/vaquero)
+  Установка SUSE Rancher (Kubernetes) в инфраструктуре с воздушным зазором.
 
-  Автоматизированная установка с помощью Terraform инфраструктуры для запуска Kubernetes.
-  Начиная от создания кастомного образа для VMware до настройки ролей узлов.
-  Стек: Terraform, Salt, SLES
-* [Вебинар 1](https://www.youtube.com/watch?v=QIhfx6eFIvY)
+* [Вебинар](https://www.youtube.com/watch?v=QIhfx6eFIvY)
 
   Создание и управление гиперконвергентной инфраструктурой с Harvester
-* [Вебинар 2](https://www.youtube.com/watch?v=mYD4abYbGhI)
-
-  Управление Kubernetes с новой версией SUSE Rancher 2.6 (совместный)
 
