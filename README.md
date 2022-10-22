@@ -27,7 +27,7 @@ Novell Open Workgroup Suite (Novell Open Enterprise Server, Novell Zenworks, Nov
 
 ### АО "СМАРТ ЛАЙН ИНК" 
 Ноябрь 2005 - май 2006 
-Системный администратор:
+- Системный администратор:
     - Развертывание и управление: Microsoft Exchange, Microsoft SharePoint. 
     - Администрирование: Microsoft Active Directory, Microsoft Windows 2003 Server, Microsoft SQL. 
 
