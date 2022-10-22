@@ -48,7 +48,15 @@ Novell Open Workgroup Suite (Novell Open Enterprise Server, Novell Zenworks, Nov
 
 [Другие](certificates.md)
 
+Английский язык:
+Технический свободное чтение перевод, устный английский - стараюсь улучшить.
 
+Языки програмирования:
+Институт - написание программ на языке C
+Пишу скрипты и программы: Bash, Python, Perl. Могу анализировать ошибки C/C++, Ruby
+
+Навыки:
+Linux, Kubernetes, SLES, Rancher, OpenStack, Ceph, Cloud Foundry, C, Python
 
 ## Портфолио (Публичные проекты)
 [github:dff1980](https://github.com/dff1980/) [github:ppzhukov](https://github.com/ppzhukov/)
