@@ -1,0 +1,11 @@
+Расширенный список моих сертификатов:
+- Certified Rancher Operator: Level One Август 2020
+- SUSE Enterprise Architect. Март 2018
+- SUSE Certified Engineer in OpenStack Cloud. Март 2018
+- SUSE Certified Administrator in Enterprise Storage (Ceph). Сентябрь 2017
+- SUSE Certified Administrator in OpenStack Cloud. Август 2017
+- Certified OpenStack Administrator. Август 2017 (COA-1700-0687-0100
+- SUSE Certified Administrator in Systems Management. Июль 2017
+- Silk Test Technical Specialization (Micro Focus). Март 2017
+- SUSE Certified Engineer in Enterprise Linux 12. Январь 2017
+- Open Enterprise Server Specialization (Micro Focus). Ноябрь 2016
