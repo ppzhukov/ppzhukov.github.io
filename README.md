@@ -20,7 +20,8 @@
 
 Ключевые Задачи:
 
-* Управление группой инженеров (до 10 человек) 
+* Организация отдела технической поддержки
+* Управление группой инженеров (до 10 человек)
     * Участие в качестве архитектора для ключевых проектов:
         * Внедрение у заказчиков Kubernetes (Rancher Kubernetes Engine)
         * Органиазция кластеров высокой доступности
@@ -71,7 +72,7 @@ Novell Open Workgroup Suite (Novell Open Enterprise Server, Novell Zenworks, Nov
 Пишу скрипты и программы: Bash, Python, Perl. Могу анализировать ошибки C/C++, Ruby
 
 Навыки:
-Linux, Kubernetes, SLES, Rancher, OpenStack, Ceph, Cloud Foundry, C, Python
+Linux, Kubernetes, ITIL, SLES, Rancher, OpenStack, Ceph, Cloud Foundry, git, C, Python, MySQL, Nginx
 
 ## Портфолио (Публичные проекты)
 [github:dff1980](https://github.com/dff1980/) [github:ppzhukov](https://github.com/ppzhukov/)
