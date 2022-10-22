@@ -15,6 +15,8 @@
 * Certified Rancher Operator: Level One (2020)
 * SUSE Certified Engineer in OpenStack Cloud (2018)
 
+[Другие](certificates.md)
+
 ## Портфолио
 * [Проект 1](https://github.com/dff1980/SAPDI-2022)
 
