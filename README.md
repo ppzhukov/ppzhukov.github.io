@@ -1,3 +1,10 @@
+---
+title: Павел Жуков
+description: Информация и резюме
+author: Pavel Zhukov
+mainfont: Roboto
+monofont: Roboto
+---
 # Павел Жуков
 
 ## Общая информация
