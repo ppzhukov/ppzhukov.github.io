@@ -46,20 +46,22 @@ Novell Open Workgroup Suite (Novell Open Enterprise Server, Novell Zenworks, Nov
 Инженер, Вычислительные машины, комплексы, системы и сети 2005 - 2009
 
 Сертификаты:
-* SUSE Enterprise Architect (2018)
-* Certified Rancher Operator: Level One (2020)
-* SUSE Certified Engineer in OpenStack Cloud (2018)
+- SUSE Enterprise Architect (2018)
+- Certified Rancher Operator: Level One (2020)
+- SUSE Certified Engineer in OpenStack Cloud (2018)
 
 [Другие](certificates.md)
 
 
 
 ## Портфолио (Публичные проекты)
-* [Проект](https://github.com/ppzhukov/airgap-10.2022)
+[github:dff1980](https://github.com/dff1980/) [github:ppzhukov](https://github.com/ppzhukov/)
+
+- [Проект](https://github.com/ppzhukov/airgap-10.2022)
 
   Установка SUSE Rancher (Kubernetes) в инфраструктуре с воздушным зазором.
 
-* [Вебинар](https://www.youtube.com/watch?v=QIhfx6eFIvY)
+- [Вебинар](https://www.youtube.com/watch?v=QIhfx6eFIvY)
 
   Создание и управление гиперконвергентной инфраструктурой с Harvester
 
