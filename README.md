@@ -7,6 +7,12 @@ mainfont: Roboto
 monofont: Roboto
 ...
 
+---
+  title: This is the title
+  author: D. Author
+  date: 14-02-2013
+...
+
 # Павел Жуков
 
 ## Общая информация
