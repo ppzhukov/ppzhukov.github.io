@@ -73,7 +73,7 @@ Novell Open Workgroup Suite (Novell Open Enterprise Server, Novell Zenworks, Nov
 Пишу скрипты и программы: Bash, Python (Django), Perl, С, основы Ruby
 
 Навыки:
-Linux, Kubernetes, ITIL, SLES, Rancher, OpenStack, Ceph, Cloud Foundry, git, C, Python, MySQL, Nginx
+Linux, Kubernetes, Terraform, ITIL, SLES, Rancher, OpenStack, Ceph, Cloud Foundry, git, C, Python, MySQL, Nginx
 
 ## Портфолио (Публичные проекты)
 [github:dff1980](https://github.com/dff1980/) [github:ppzhukov](https://github.com/ppzhukov/)
