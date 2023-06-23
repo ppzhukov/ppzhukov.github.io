@@ -1,4 +1,5 @@
 Расширенный список моих сертификатов:
+- SCA in SUSE Rancher 2.6 Июнь 2023
 - Certified Rancher Operator: Level One Август 2020
 - SUSE Enterprise Architect. Март 2018
 - SUSE Certified Engineer in OpenStack Cloud. Март 2018
