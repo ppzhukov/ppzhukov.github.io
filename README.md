@@ -61,7 +61,7 @@ Novell Open Workgroup Suite (Novell Open Enterprise Server, Novell Zenworks, Nov
 
 Сертификаты:
 * SUSE Enterprise Architect (2018)
-* Certified Rancher Operator: Level One (2020)
+* SCA in SUSE Rancher 2.6 (2023)
 * SUSE Certified Engineer in OpenStack Cloud (2018)
 
 [Другие](certificates.md)
